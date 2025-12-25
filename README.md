@@ -5,7 +5,6 @@ I am currently working on Tickets and Events system at tazamo Africa<br>🤝I'm 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaser.ke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-erogo-1495a9240) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack
 
 ## 🧠 Backend
@@ -26,6 +25,9 @@ I am currently working on Tickets and Events system at tazamo Africa<br>🤝I'm 
 
 ## 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
