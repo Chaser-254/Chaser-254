@@ -34,14 +34,10 @@ I am currently working on Tickets and Events system at tazamo Africa<br>I'm look
 ![](https://nirzak-streak-stats.vercel.app/?user=Chaser-254&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chaser-254&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chaser-254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chaser-254&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## Buy Me a Coffee
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
