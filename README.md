@@ -33,8 +33,3 @@ I am currently working on Tickets and Events system at tazamo Africa<br>I'm look
 ![](https://github-readme-stats.vercel.app/api?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chaser-254&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=Chaser-254&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
