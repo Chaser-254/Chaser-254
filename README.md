@@ -27,9 +27,3 @@ I am currently working on Tickets and Events system at tazamo Africa<br>I'm look
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chaser-254&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaser-254&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
