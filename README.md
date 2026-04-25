@@ -1,5 +1,5 @@
 # About Me
-I am currently working on Tickets and Events system at tazamo Africa<br>I'm looking to collaborate on Fullstack development projects<br>I am looking for help with my new startup Tazamo Africa<br>Ask me about Python Django,and MERN Stack<br>Fun Fact: I'm an Introvert
+I am currently working on Tickets and Events system at tazamo Africa(ZozaPRime) https://www.zozaprime.com<br>I'm looking to collaborate on Fullstack development projects<br>I am looking for help with my new startup Tazamo Africa<br>Ask me about Python Django,and MERN Stack<br>Fun Fact: I'm an Introvert
 
 
 ## Socials:
