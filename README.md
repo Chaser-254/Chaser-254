@@ -1,5 +1,5 @@
 # About Me
-I am currently working on Tickets and Events system at tazamo Africa(ZozaPrime) https://www.zozaprime.com<br>I'm looking to collaborate on Fullstack development projects)=(Python-Django and MERN Stack)<br> and an AI-Powered Platform called ShambaCare that helps farmers do diagnostics on their farms with just taking the photo of the affected crop (www.shambacare.com)
+I am currently working on TikitiAfrica<br>I'm looking to collaborate on Full stack development projects)=(Python-Django and MERN Stack)<br> and an AI-Powered Platform called ShambaCare that helps farmers do diagnostics on their farms with just taking the photo of the affected crop (www.shambacare.com)
 
 
 ## Socials:
