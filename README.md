@@ -1,6 +1,4 @@
-# About Me
-I am currently working on TikitiAfrica<br>I'm looking to collaborate on Full stack development projects)=(Python-Django and MERN Stack)<br> and an AI-Powered Platform called ShambaCare that helps farmers do diagnostics on their farms with just taking the photo of the affected crop (www.shambacare.com)
-
+Somewhere between “it works on my machine” and “why is production down?”
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaser.ke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-erogo-1495a9240) 
